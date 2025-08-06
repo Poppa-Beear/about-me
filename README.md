@@ -17,10 +17,11 @@ I'm currently studying for my **Bachelor of Applied Information Technology** doi
 - Assisted classmates with troubleshooting hardware/software issues
 - Represented students in feedback sessions to improve IT learning experience
 
-- ## 🎯 What I'm Looking For
+## 🎯 What I'm Looking For
 I'm eager to gain real-world experience in **IT support** or **networking roles** where I can:
 - Apply my technical skills in a professional environment
 - Learn from industry professionals
 - Gain experience in the IT industry
-- ## 📫 Contact
+
+## 📫 Contact
 Feel free to message me via GitHub if you'd like to get in touch or ask questions!
