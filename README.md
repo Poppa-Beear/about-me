@@ -2,7 +2,7 @@
 
 # 👋 Hi there! I'm Isaiah
 
-I'm currently studying for my **Bachelor of Applied Information Technology** doing the Networking Stream. I'm passionate about solving tech problems and helping others — through troubleshooting software terchnical issues, or guiding fellow students, during my studies i have taken responsibilities such as a **student representative** which brings me into contact with faculty and other students to provide feedback to the centre for IT , im also an admin in a student discord i often relay mesages to everyone from our tutors, hobbies i enjoy are buildng pc's gaming and watching movies, or going to the rugby ive taken a keen interest in networks in particular Cyber Security 
+I'm currently studying for my **Bachelor of Applied Information Technology** doing the Networking Stream. I'm passionate about solving tech problems and helping others — through troubleshooting software terchnical issues, or guiding fellow students, during my studies i have taken responsibilities such as a **student representative** which brings me into contact with faculty and other students to provide feedback to the centre for IT , im also an admin in a student discord i often relay mesages to everyone from our tutors, hobbies i enjoy are buildng pc's gaming and watching movies, or going to the rugby, ive taken a keen interest in networks particularly Cyber Security 
 
 ## 🧠 What I'm Good At
 - 💻 PC Building & Troubleshooting
